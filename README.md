@@ -1,5 +1,5 @@
 
-# 👨‍💻 About Me
+#  About Me
 
 Name: Gaurav Shukla <br>
 Role: SOC & Cloud Security Enthusiast <br>
@@ -13,7 +13,7 @@ I’m an entry-level cybersecurity professional with hands-on exposure to enterp
 
 Currently building practical SOC and Cloud Security skills through real-world monitoring exposure, isolated VM labs, protocol-level traffic analysis, and security-focused learning projects.<br>
 
-# ⚡ Current Focus
+#  Current Focus
 
 > Wireshark & TShark Packet Analysis
 > SIEM Monitoring & Alert Observation
@@ -23,7 +23,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 
 
 
-## 🌐 Socials:
+##  Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://gaura-shukla.github.io/)
 
@@ -31,7 +31,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravshuklaabu007@gmail.com)
 <br>
-# 🔐 Cybersecurity & Cloud Security Stack:
+# Cybersecurity & Cloud Security Stack:
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TShark](https://img.shields.io/badge/TShark-CLI%20Analysis-1679A7?style=for-the-badge)
@@ -55,7 +55,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 
 ---
 
-# 💻 Additional Technical Skills:
+#  Additional Technical Skills:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -74,7 +74,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 ---
 
 
-# 📊 Cybersecurity Focus Areas
+#  Cybersecurity Focus Areas
 
 | Domain | Progress |
 |---|---|
@@ -84,7 +84,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 | SIEM Analysis | ███████░░░ 70% |
 | AWS Security | ███████░░░ 70% |
 
-# ⚡ Live Security Matrix
+#  Live Security Matrix
 
 [ SECURITY OPERATIONS ]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -99,9 +99,9 @@ Virtual Security Labs         █████████░ 90% <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STATUS : LEARNING • BUILDING • IMPROVING
 
-# 🛰️ Threat Monitoring Dashboard
+#  Threat Monitoring Dashboard
 
-| 🌐 Network | 📡 Monitoring | ☁️ Cloud   |
+|  Network |  Monitoring |  Cloud   |
 | ---------- | -------------- | ----------- |
 | TCP/IP     | Wazu           |  AWS IAM    |
 | DNS        | SIEM           | CloudTrail  |
@@ -110,7 +110,7 @@ STATUS : LEARNING • BUILDING • IMPROVING
 | VLANs      | Alert Triage   |  S3         |
 | Routing    | UNMS           | Compliance  |
 
-# 🧪 Active Lab Environment
+#  Active Lab Environment
 
 | LAB STATUS                 |        | 
 | ------------------------- | ------- |
@@ -124,7 +124,7 @@ STATUS : LEARNING • BUILDING • IMPROVING
 
 STATUS : LEARNING • BUILDING • IMPROVING
 
- | 🔍 Security Focus | ⚙️ Currently Exploring |
+ |  Security Focus |  Currently Exploring |
 | ------------------ | ---------------------- |
 | Packet Analysis | Wazuh SIEM |
 | Threat Monitoring | Splunk Fundamental |
@@ -133,10 +133,10 @@ STATUS : LEARNING • BUILDING • IMPROVING
 | Detection Concepts | Incident Analysis |
 | Log Analysis | Security Automation |
 
-# 🚀 Featured Lab Environment
+#  Featured Lab Environment
 <p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-Security_Labs-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-VM_Labs-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> </p>
 
-# 🛡️ Security Domains
+#  Security Domains
 
 | Domain              | Focus Area                 |
 | ------------------- | -------------------------- |
@@ -149,6 +149,6 @@ STATUS : LEARNING • BUILDING • IMPROVING
 
 
 <div align="center">
-⚡ “Monitoring networks today. Defending infrastructure tomorrow.”
+ “Monitoring networks today. Defending infrastructure tomorrow.”
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Cloud+Security+%7C+Network+Operations;Hands-on+Learning+through+Labs+and+Monitoring;Wireshark+%7C+SIEM+%7C+AWS+Security"/>
 </div>
