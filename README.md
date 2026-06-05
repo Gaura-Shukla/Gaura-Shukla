@@ -112,16 +112,15 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Routing
 </td> <td width="33%">
   <br>
-  
+ 
 📡 Monitoring
-+ Wazuh <br>
-+ TB-SIEM <br>
-+ Infraon <br>
++ Wazuh<br>
++ TB-SIEM<br>
++ Infraon<br>
 + CloudWatch <br>
-+ Log Analysis <br>
-+ Alert Triage <br> 
++ Log Analysis<br>
++ Alert Triage<br> 
 </td> <td width="33%">
-
   ☁️ Cloud 
 
 + AWS IAM 
@@ -135,13 +134,13 @@ STATUS : LEARNING • BUILDING • IMPROVING
 🧪 Active Lab Environment
 [ LAB STATUS ]
 
-✔ Kali Linux VM            : RUNNING
-✔ Wireshark Capture        : ACTIVE
-✔ Packet Tracer Labs       : READY
-✔ TShark Analysis          : ENABLED
-✔ Internal VM Network      : CONNECTED
-✔ Security Monitoring      : ACTIVE
-✔ Protocol Analysis        : OPERATIONAL
+✔ Kali Linux VM            : RUNNING <br>
+✔ Wireshark Capture        : ACTIVE <br>
+✔ Packet Tracer Labs       : READY <br>
+✔ TShark Analysis          : ENABLED <br>
+✔ Internal VM Network      : CONNECTED <br>
+✔ Security Monitoring      : ACTIVE <br>
+✔ Protocol Analysis        : OPERATIONAL <br>
 STATUS : LEARNING • BUILDING • IMPROVING
 <table> <tr> <td width="50%">
   
