@@ -101,7 +101,9 @@ Virtual Security Labs         █████████░ 90% <br>
 STATUS : LEARNING • BUILDING • IMPROVING
 🛰️ Threat Monitoring Dashboard
 <table> <tr> <td width="33%">
+  
 🌐 Network
+
 + TCP/IP
 + DNS
 + ICMP
@@ -110,6 +112,7 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Routing
 </td> <td width="33%">
   <br>
+  
 📡 Monitoring
 + Wazuh <br>
 + TB-SIEM <br>
@@ -118,9 +121,9 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Log Analysis <br>
 + Alert Triage <br> 
 </td> <td width="33%">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   ☁️ Cloud 
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
+
 + AWS IAM 
 + CloudTrail
 + GuardDuty
