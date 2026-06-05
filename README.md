@@ -100,8 +100,7 @@ Virtual Security Labs         █████████░ 90% <br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STATUS : LEARNING • BUILDING • IMPROVING
 🛰️ Threat Monitoring Dashboard
-<table> <tr> <td width="33%">
-  
+<table> <tr> <td width="33%">  
 🌐 Network
 
 + TCP/IP
@@ -112,7 +111,6 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Routing
 </td> <td width="33%">
   <br>
- 
 📡 Monitoring
 + Wazuh<br>
 + TB-SIEM<br>
@@ -122,7 +120,6 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Alert Triage<br> 
 </td> <td width="33%">
   ☁️ Cloud 
-
 + AWS IAM 
 + CloudTrail
 + GuardDuty
@@ -153,7 +150,6 @@ Cloud Security<br>
 Detection Concepts <br>
 Log Analysis<br>
 </td> <td width="50%">
----
 ⚙️ Currently Exploring
   
 Wazuh SIEM<br>
