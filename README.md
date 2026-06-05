@@ -113,38 +113,25 @@ STATUS : LEARNING • BUILDING • IMPROVING
 | Routing    | UNMS           | Compliance  |
 
 # 🧪 Active Lab Environment
-
-[ LAB STATUS ]
-
-| Kali Linux VM            :| RUNNING |<br>
-| Wireshark Capture        : | ACTIVE |<br>
- | Packet Tracer Labs       : | READY |<br>
- | TShark Analysis          : | ENABLED | <br>
- | Internal VM Network      : | CONNECTED | <br>
- | Security Monitoring      : | ACTIVE | <br>
- | Protocol Analysis        : | OPERATIONAL | <br>
+| LAB STATUS                |         |  
+| Kali Linux VM            :| RUNNING |
+| Wireshark Capture        : | ACTIVE |
+ | Packet Tracer Labs       : | READY |
+ | TShark Analysis          : | ENABLED |
+ | Internal VM Network      : | CONNECTED |
+ | Security Monitoring      : | ACTIVE | 
+ | Protocol Analysis        : | OPERATIONAL | 
 
 STATUS : LEARNING • BUILDING • IMPROVING
-<table> <tr> <td width="50%"> 
 
- 🔍 Security Focus
-Packet Analysis <br>
-Threat Monitoring <br>
-SOC Workflows<br>
-Cloud Security<br>
-Detection Concepts <br>
-Log Analysis<br>
-</td> <td width="50%">
-
- ⚙️ Currently Exploring  
-
-Wazuh SIEM<br>
-Splunk Fundamentals<br>
-AWS Security<br>
-ELK Stack<br>
-Security Automation<br>
-Incident Analysis<br>
-</td> </tr> </table>
+ | 🔍 Security Focus | ⚙️ Currently Exploring |
+| ------------------ | ---------------------- |
+| Packet Analysis | Wazuh SIEM |
+| Threat Monitoring | Splunk Fundamental |
+| SOC Workflows | AWS Security |
+| Cloud Security | AWS Security |
+| Detection Concepts | Incident Analysis |
+| Log Analysis | Security Automation |
 
 # 🚀 Featured Lab Environment
 <p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-Security_Labs-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-VM_Labs-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> </p>
