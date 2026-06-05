@@ -113,7 +113,8 @@ STATUS : LEARNING • BUILDING • IMPROVING
 | Routing    | UNMS           | Compliance  |
 
 # 🧪 Active Lab Environment
-| LAB STATUS                |         | 
+
+| LAB STATUS                 |        | 
 | ------------------------- | ------- |
 | Kali Linux VM            :| RUNNING |
 | Wireshark Capture        : | ACTIVE |
