@@ -116,18 +116,18 @@ STATUS : LEARNING • BUILDING • IMPROVING
 
 [ LAB STATUS ]
 
-Kali Linux VM            : RUNNING <br>
- Wireshark Capture        : ACTIVE <br>
- Packet Tracer Labs       : READY <br>
- TShark Analysis          : ENABLED <br>
- Internal VM Network      : CONNECTED <br>
- Security Monitoring      : ACTIVE <br>
- Protocol Analysis        : OPERATIONAL <br>
+| Kali Linux VM            :| RUNNING |<br>
+| Wireshark Capture        : | ACTIVE |<br>
+ | Packet Tracer Labs       : | READY |<br>
+ | TShark Analysis          : | ENABLED | <br>
+ | Internal VM Network      : | CONNECTED | <br>
+ | Security Monitoring      : | ACTIVE | <br>
+ | Protocol Analysis        : | OPERATIONAL | <br>
 
 STATUS : LEARNING • BUILDING • IMPROVING
 <table> <tr> <td width="50%"> 
-🔍 Security Focus
-  ---
+
+ 🔍 Security Focus
 Packet Analysis <br>
 Threat Monitoring <br>
 SOC Workflows<br>
@@ -135,8 +135,9 @@ Cloud Security<br>
 Detection Concepts <br>
 Log Analysis<br>
 </td> <td width="50%">
-⚙️ Currently Exploring  
-  ---
+
+ ⚙️ Currently Exploring  
+
 Wazuh SIEM<br>
 Splunk Fundamentals<br>
 AWS Security<br>
