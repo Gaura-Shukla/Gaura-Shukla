@@ -90,12 +90,12 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 [ SECURITY OPERATIONS ]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Wireshark Packet Analysis     █████████░ 90%
-SIEM Monitoring               ████████░░ 80%
-AWS Cloud Security            ███████░░░ 70%
-Network Troubleshooting       █████████░ 90%
-SOC Workflow Understanding    ████████░░ 80%
-Virtual Security Labs         █████████░ 90%
+Wireshark Packet Analysis     █████████░ 90% <br>
+SIEM Monitoring               ████████░░ 80% <br>
+AWS Cloud Security            ███████░░░ 70% <br>
+Network Troubleshooting       █████████░ 90% <br>
+SOC Workflow Understanding    ████████░░ 80% <br>
+Virtual Security Labs         █████████░ 90% <br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STATUS : LEARNING • BUILDING • IMPROVING
@@ -109,23 +109,26 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + VLANs
 + Routing
 </td> <td width="33%">
+  <br>
 📡 Monitoring
-+ Wazuh
-+ TB-SIEM
-+ Infraon
-+ CloudWatch
-+ Log Analysis
-+ Alert Triage
++ Wazuh <br>
++ TB-SIEM <br>
++ Infraon <br>
++ CloudWatch <br>
++ Log Analysis <br>
++ Alert Triage <br> 
 </td> <td width="33%">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ☁️ Cloud
-+ AWS IAM
+  ☁️ Cloud 
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
++ AWS IAM 
 + CloudTrail
 + GuardDuty
 + EC2
 + S3
 + Compliance
 </td> </tr> </table>
+
 🧪 Active Lab Environment
 [ LAB STATUS ]
 
@@ -140,20 +143,23 @@ STATUS : LEARNING • BUILDING • IMPROVING
 <table> <tr> <td width="50%">
   
 🔍 Security Focus
-Packet Analysis
-Threat Monitoring
-SOC Workflows
-Cloud Security
-Detection Concepts
-Log Analysis
+
+Packet Analysis <br>
+Threat Monitoring <br>
+SOC Workflows<br>
+Cloud Security<br>
+Detection Concepts <br>
+Log Analysis<br>
 </td> <td width="50%">
+---
 ⚙️ Currently Exploring
-Wazuh SIEM
-Splunk Fundamentals
-AWS Security
-ELK Stack
-Security Automation
-Incident Analysis
+  
+Wazuh SIEM<br>
+Splunk Fundamentals<br>
+AWS Security<br>
+ELK Stack<br>
+Security Automation<br>
+Incident Analysis<br>
 </td> </tr> </table>
 
 🚀 Featured Lab Environment
@@ -174,6 +180,4 @@ Incident Analysis
 <div align="center">
 ⚡ “Monitoring networks today. Defending infrastructure tomorrow.”
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Cloud+Security+%7C+Network+Operations;Hands-on+Learning+through+Labs+and+Monitoring;Wireshark+%7C+SIEM+%7C+AWS+Security"/>
-root@gaurav:~# whoami
-SOC Analyst & Cloud Security Learner
 </div>
