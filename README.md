@@ -1,11 +1,11 @@
 
 # 👨‍💻 About Me
 
-Name: Gaurav Shukla
-Role: SOC & Cloud Security Enthusiast
-Focus: Security Monitoring | Packet Analysis | SIEM | AWS Security
-Current Project: Power Grid Corporation of India (via STL)
-Learning: SOC Operations, Detection Engineering, Cloud Security
+Name: Gaurav Shukla <br>
+Role: SOC & Cloud Security Enthusiast <br>
+Focus: Security Monitoring | Packet Analysis | SIEM | AWS Security <br>
+Current Project: Power Grid Corporation of India (via STL) <br>
+Learning: SOC Operations, Detection Engineering, Cloud Security <br>
 Location: India<br>
 
 
@@ -26,8 +26,6 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 ## 🌐 Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://gaura-shukla.github.io/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Gaurav_x_Shukla)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-shukla-046016286/)
 
