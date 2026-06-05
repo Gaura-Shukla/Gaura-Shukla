@@ -86,33 +86,59 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 | SIEM Analysis | ███████░░░ 70% |
 | AWS Security | ███████░░░ 70% |
 
-# 📊 GitHub Analytics
+⚡ Live Security Matrix
+[ SECURITY OPERATIONS ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gaura-Shukla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaura-Shukla&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
-</p>
+Wireshark Packet Analysis     █████████░ 90%
+SIEM Monitoring               ████████░░ 80%
+AWS Cloud Security            ███████░░░ 70%
+Network Troubleshooting       █████████░ 90%
+SOC Workflow Understanding    ████████░░ 80%
+Virtual Security Labs         █████████░ 90%
 
----
-
-# ⚡ Cybersecurity Matrix
-
-[ SYSTEM STATUS ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATUS : LEARNING • BUILDING • IMPROVING
+🛰️ Threat Monitoring Dashboard
+<table> <tr> <td width="33%">
+🌐 Network
++ TCP/IP
++ DNS
++ ICMP
++ ARP
++ VLANs
++ Routing
+</td> <td width="33%">
+📡 Monitoring
++ Wazuh
++ TB-SIEM
++ Infraon
++ CloudWatch
++ Log Analysis
++ Alert Triage
+</td> <td width="33%">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ☁️ Cloud
++ AWS IAM
++ CloudTrail
++ GuardDuty
++ EC2
++ S3
++ Compliance
+</td> </tr> </table>
+🧪 Active Lab Environment
+[ LAB STATUS ]
 
-[✓] SOC Monitoring Exposure
-[✓] Wireshark Packet Analysis
-[✓] AWS Cloud Security Fundamentals
-[✓] SIEM Log Observation
-[✓] Virtual Lab Simulations
-[✓] Network Troubleshooting
-[✓] VLAN & Routing Concepts
-[✓] TCP/IP & Protocol Analysis
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✔ Kali Linux VM            : RUNNING
+✔ Wireshark Capture        : ACTIVE
+✔ Packet Tracer Labs       : READY
+✔ TShark Analysis          : ENABLED
+✔ Internal VM Network      : CONNECTED
+✔ Security Monitoring      : ACTIVE
+✔ Protocol Analysis        : OPERATIONAL
 STATUS : LEARNING • BUILDING • IMPROVING
 <table> <tr> <td width="50%">
+  
 🔍 Security Focus
 Packet Analysis
 Threat Monitoring
@@ -147,4 +173,7 @@ Incident Analysis
 
 <div align="center">
 ⚡ “Monitoring networks today. Defending infrastructure tomorrow.”
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Cloud+Security+%7C+Network+Operations;Hands-on+Learning+through+Labs+and+Monitoring;Wireshark+%7C+SIEM+%7C+AWS+Security"/> </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Cloud+Security+%7C+Network+Operations;Hands-on+Learning+through+Labs+and+Monitoring;Wireshark+%7C+SIEM+%7C+AWS+Security"/>
+root@gaurav:~# whoami
+SOC Analyst & Cloud Security Learner
+</div>
