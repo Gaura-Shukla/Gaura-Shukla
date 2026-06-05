@@ -1,6 +1,6 @@
 
 # 👨‍💻 About Me
-```yaml
+
 Name: Gaurav Shukla
 Role: SOC & Cloud Security Enthusiast
 Focus: Security Monitoring | Packet Analysis | SIEM | AWS Security
@@ -8,14 +8,13 @@ Current Project: Power Grid Corporation of India (via STL)
 Learning: SOC Operations, Detection Engineering, Cloud Security
 Location: India<br>
 
-```md
+
 I’m an entry-level cybersecurity professional with hands-on exposure to enterprise monitoring, SIEM log analysis, packet analysis, AWS cloud security, and L1/L2 troubleshooting.
 
 Currently building practical SOC and Cloud Security skills through real-world monitoring exposure, isolated VM labs, protocol-level traffic analysis, and security-focused learning projects.<br>
 
 # ⚡ Current Focus
 
-```bash
 > Wireshark & TShark Packet Analysis
 > SIEM Monitoring & Alert Observation
 > AWS Cloud Security Fundamentals
@@ -39,7 +38,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 
 ---
 
-```md id="bzf3tg"
+
 # 📊 Cybersecurity Focus Areas
 
 | Domain | Progress |
