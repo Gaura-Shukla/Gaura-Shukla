@@ -87,6 +87,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 | AWS Security | ███████░░░ 70% |
 
 # ⚡ Live Security Matrix
+
 [ SECURITY OPERATIONS ]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -102,33 +103,35 @@ STATUS : LEARNING • BUILDING • IMPROVING
 # 🛰️ Threat Monitoring Dashboard
 <table> <tr> <td width="33%">  
 🌐 Network
-+ TCP/IP
-+ DNS
-+ ICMP
-+ ARP
-+ VLANs
-+ Routing
+ TCP/IP
+ DNS
+ ICMP
+ ARP
+ VLANs
+ Routing
 </td> <td width="33%">
   <br>
 📡 Monitoring
-+ Wazuh<br>
-+ TB-SIEM<br>
-+ Infraon<br>
-+ CloudWatch <br>
-+ Log Analysis<br>
-+ Alert Triage<br> 
+ Wazuh<br>
+ TB-SIEM<br>
+ Infraon<br>
+ CloudWatch <br>
+ Log Analysis<br>
+ Alert Triage<br> 
 </td> <td width="33%">
 ☁️ Cloud 
-+ AWS IAM 
-+ CloudTrail
-+ GuardDuty
-+ EC2
-+ S3
-+ Compliance
+ AWS IAM 
+ CloudTrail
+ GuardDuty
+ EC2
+ S3
+ Compliance
 </td> </tr> </table>
 
 # 🧪 Active Lab Environment
+
 [ LAB STATUS ]
+
 ✔ Kali Linux VM            : RUNNING <br>
 ✔ Wireshark Capture        : ACTIVE <br>
 ✔ Packet Tracer Labs       : READY <br>
@@ -136,10 +139,11 @@ STATUS : LEARNING • BUILDING • IMPROVING
 ✔ Internal VM Network      : CONNECTED <br>
 ✔ Security Monitoring      : ACTIVE <br>
 ✔ Protocol Analysis        : OPERATIONAL <br>
+
 STATUS : LEARNING • BUILDING • IMPROVING
 <table> <tr> <td width="50%"> 
-
-# 🔍 Security Focus
+🔍 Security Focus
+  ---
 Packet Analysis <br>
 Threat Monitoring <br>
 SOC Workflows<br>
@@ -147,8 +151,8 @@ Cloud Security<br>
 Detection Concepts <br>
 Log Analysis<br>
 </td> <td width="50%">
-
-# ⚙️ Currently Exploring  
+⚙️ Currently Exploring  
+  ---
 Wazuh SIEM<br>
 Splunk Fundamentals<br>
 AWS Security<br>
