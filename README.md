@@ -100,45 +100,29 @@ Virtual Security Labs         █████████░ 90% <br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STATUS : LEARNING • BUILDING • IMPROVING
+
 # 🛰️ Threat Monitoring Dashboard
-<table> <tr> <td width="33%">  
-🌐 Network
- TCP/IP
- DNS
- ICMP
- ARP
- VLANs
- Routing
-</td> <td width="33%">
-  <br>
-📡 Monitoring
- Wazuh<br>
- TB-SIEM<br>
- Infraon<br>
- CloudWatch <br>
- Log Analysis<br>
- Alert Triage<br> 
-</td> <td width="33%">
-☁️ Cloud 
- AWS IAM 
- CloudTrail
- GuardDuty
- EC2
- S3
- Compliance
-</td> </tr> </table>
+
+| 🌐 Network | 📡 Monitoring | ☁️ Cloud   |
+| ---------- | -------------- | ----------- |
+| TCP/IP     | Wazu           |  AWS IAM    |
+| DNS        | SIEM           | CloudTrail  |
+| ICMP       | CMC            | GuardDuty   |
+| ARP        | Lg Analysis    | EC2         |
+| VLANs      | Alert Triage   |  S3         |
+| Routing    | UNMS           | Compliance  |
 
 # 🧪 Active Lab Environment
 
 [ LAB STATUS ]
 
-✔ Kali Linux VM            : RUNNING <br>
-✔ Wireshark Capture        : ACTIVE <br>
-✔ Packet Tracer Labs       : READY <br>
-✔ TShark Analysis          : ENABLED <br>
-✔ Internal VM Network      : CONNECTED <br>
-✔ Security Monitoring      : ACTIVE <br>
-✔ Protocol Analysis        : OPERATIONAL <br>
+Kali Linux VM            : RUNNING <br>
+ Wireshark Capture        : ACTIVE <br>
+ Packet Tracer Labs       : READY <br>
+ TShark Analysis          : ENABLED <br>
+ Internal VM Network      : CONNECTED <br>
+ Security Monitoring      : ACTIVE <br>
+ Protocol Analysis        : OPERATIONAL <br>
 
 STATUS : LEARNING • BUILDING • IMPROVING
 <table> <tr> <td width="50%"> 
