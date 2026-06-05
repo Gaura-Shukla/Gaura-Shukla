@@ -86,23 +86,65 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 | SIEM Analysis | ███████░░░ 70% |
 | AWS Security | ███████░░░ 70% |
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaurav-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gaurav-Shukla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Analytics
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gaurav-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gaura-Shukla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaura-Shukla&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+</p>
 
-# 📈 Contribution Graph
+---
 
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaura-Shukla&theme=tokyo-night)](https://github.com/Gaura-Shukla)
+# ⚡ Cybersecurity Matrix
+
+[ SYSTEM STATUS ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[✓] SOC Monitoring Exposure
+[✓] Wireshark Packet Analysis
+[✓] AWS Cloud Security Fundamentals
+[✓] SIEM Log Observation
+[✓] Virtual Lab Simulations
+[✓] Network Troubleshooting
+[✓] VLAN & Routing Concepts
+[✓] TCP/IP & Protocol Analysis
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATUS : LEARNING • BUILDING • IMPROVING
+<table> <tr> <td width="50%">
+🔍 Security Focus
+Packet Analysis
+Threat Monitoring
+SOC Workflows
+Cloud Security
+Detection Concepts
+Log Analysis
+</td> <td width="50%">
+⚙️ Currently Exploring
+Wazuh SIEM
+Splunk Fundamentals
+AWS Security
+ELK Stack
+Security Automation
+Incident Analysis
+</td> </tr> </table>
+
+🚀 Featured Lab Environment
+<p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-Security_Labs-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-VM_Labs-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> </p>
+
+🛡️ Security Domains
+
+| Domain              | Focus Area                 |
+| ------------------- | -------------------------- |
+| 🌐 Network Security | TCP/IP, DNS, ARP, ICMP     |
+| 📡 Packet Analysis  | Wireshark, TShark, PCAP    |
+| ☁️ Cloud Security   | IAM, GuardDuty, CloudTrail |
+| 📊 Monitoring       | Infraon, SIEM, CloudWatch  |
+| 🖥️ Virtualization  | VMware, VirtualBox         |
+| 🔍 Troubleshooting  | L1/L2 Incident Handling    |
+
 
 <div align="center">
-
-### ⚡ “Monitoring networks today. Defending infrastructure tomorrow.”
-
-Open to:
-SOC Analyst • NOC Analyst • Cloud Security • Network Operations
-
-</div>
+⚡ “Monitoring networks today. Defending infrastructure tomorrow.”
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Cloud+Security+%7C+Network+Operations;Hands-on+Learning+through+Labs+and+Monitoring;Wireshark+%7C+SIEM+%7C+AWS+Security"/> </div>
