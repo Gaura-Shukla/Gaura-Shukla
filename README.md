@@ -86,7 +86,7 @@ Currently building practical SOC and Cloud Security skills through real-world mo
 | SIEM Analysis | ███████░░░ 70% |
 | AWS Security | ███████░░░ 70% |
 
-#⚡ Live Security Matrix
+# ⚡ Live Security Matrix
 [ SECURITY OPERATIONS ]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -99,9 +99,9 @@ Virtual Security Labs         █████████░ 90% <br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 STATUS : LEARNING • BUILDING • IMPROVING
-#🛰️ Threat Monitoring Dashboard
+# 🛰️ Threat Monitoring Dashboard
 <table> <tr> <td width="33%">  
-#🌐 Network
+🌐 Network
 + TCP/IP
 + DNS
 + ICMP
@@ -110,7 +110,7 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Routing
 </td> <td width="33%">
   <br>
-#📡 Monitoring
+📡 Monitoring
 + Wazuh<br>
 + TB-SIEM<br>
 + Infraon<br>
@@ -118,7 +118,7 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Log Analysis<br>
 + Alert Triage<br> 
 </td> <td width="33%">
- # ☁️ Cloud 
+☁️ Cloud 
 + AWS IAM 
 + CloudTrail
 + GuardDuty
@@ -127,7 +127,7 @@ STATUS : LEARNING • BUILDING • IMPROVING
 + Compliance
 </td> </tr> </table>
 
-#🧪 Active Lab Environment
+# 🧪 Active Lab Environment
 [ LAB STATUS ]
 ✔ Kali Linux VM            : RUNNING <br>
 ✔ Wireshark Capture        : ACTIVE <br>
@@ -138,7 +138,8 @@ STATUS : LEARNING • BUILDING • IMPROVING
 ✔ Protocol Analysis        : OPERATIONAL <br>
 STATUS : LEARNING • BUILDING • IMPROVING
 <table> <tr> <td width="50%"> 
-#🔍 Security Focus
+
+# 🔍 Security Focus
 Packet Analysis <br>
 Threat Monitoring <br>
 SOC Workflows<br>
@@ -146,7 +147,8 @@ Cloud Security<br>
 Detection Concepts <br>
 Log Analysis<br>
 </td> <td width="50%">
-#⚙️ Currently Exploring  
+
+# ⚙️ Currently Exploring  
 Wazuh SIEM<br>
 Splunk Fundamentals<br>
 AWS Security<br>
@@ -155,10 +157,10 @@ Security Automation<br>
 Incident Analysis<br>
 </td> </tr> </table>
 
-#🚀 Featured Lab Environment
+# 🚀 Featured Lab Environment
 <p align="center"> <img src="https://img.shields.io/badge/Kali_Linux-Security_Labs-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/VirtualBox-VM_Labs-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> </p>
 
-#🛡️ Security Domains
+# 🛡️ Security Domains
 
 | Domain              | Focus Area                 |
 | ------------------- | -------------------------- |
@@ -171,6 +173,6 @@ Incident Analysis<br>
 
 
 <div align="center">
-#⚡ “Monitoring networks today. Defending infrastructure tomorrow.”
+⚡ “Monitoring networks today. Defending infrastructure tomorrow.”
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Cloud+Security+%7C+Network+Operations;Hands-on+Learning+through+Labs+and+Monitoring;Wireshark+%7C+SIEM+%7C+AWS+Security"/>
 </div>
